@@ -1,0 +1,13 @@
+section,item_slug,title,image_file,role,order,notes
+projects,biography-of-the-river-aare,Biography of the River Aare,cover.jpg,cover,0,main card image
+projects,corfu-islands-imaginaries,Corfu. Islands Imaginaries,L1510938.JPG,cover,0,main card image
+projects,islands-listening,Island's Essences Listened,L1510461.JPG,cover,0,main card image
+projects,multispecies-tour-in-paris,Multispecies Tour in Paris,L1510089.jpeg,cover,0,main card image
+projects,exhibition-repository,Exhibition Repository,L1510403.JPG,cover,0,main card image
+projects,oceanity-in-contemporary-art,Oceanity in Contemporary Art,cover.jpg,cover,0,main card image
+projects,land-of-tenderness,Land of Tenderness,cover.jpg,cover,0,main card image
+projects,un-bon-endroit-pour-cacher-un-cadavre,Un bon endroit pour cacher un cadavre,111 copie.jpeg,cover,0,main card image
+bio,profile,Profile,IMG_3652.jpg,cover,0,bio section image and cv photo
+hero,home,Homepage Hero,hero-01.jpg,cover,0,optional hero image
+docs,cv,CV PDF low,CV_Ekaterina_Iakovleva_low.pdf,download,0,
+docs,cv,CV PDF high,CV_Ekaterina_Iakovleva_high.pdf,download,1,

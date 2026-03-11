@@ -1,0 +1,136 @@
+EKATERINA IAKOVLEVA
+Researcher • Curator • Data Scientist
+Paris, France • yavlenieraket@gmail.com • +33 6 86 26 02 20
+ABOUT
+Ekaterina Iakovleva studies ocean and island relational, ancient and contemporary landscapes, focusing on ecology and environmental inequality, with additional analysis of economic and colonial violence. She conducts research using anthropological, ethnographical and post-anthropological methods, field philosophy, qualitative and quantitative methods for image analysis, ethnographic work, spatial analysis and data modelling. She holds a Master’s degree in Anthropology, Digital Humanities and Philosophy from Paris Sciences et Lettres (PSL), completed in 2024. Ekaterina also curates exhibitions and artist residencies, working with decolonial artists and exploring themes of migration and hospitality.
+EDUCATION
+Master’s in Anthropology, Digital Humanities and Philosophy	2022–2024
+Paris Sciences et Lettres (ENC, ENS, EHESS), Paris, France
+Interdisciplinary programme integrating anthropological theory, philosophical analysis, and digital methods. Master’s thesis applying ethnographic and philosophical methodologies to environmental and spatial questions. Key courses: Philosophy of the Ocean; Law and Philosophy of the Ocean (Prof. Roberto Casati); Ethology; Changing Climate, Changing Behaviour; Automatic Image Processing; Automatic Language Processing and Semantic Analysis.
+ERASMUS Research Internship, Ionian University	2023–2025
+Corfu, Greece
+Research internship in a coastal and island context, providing direct experience with island temporality, environmental vulnerability, and cultural landscapes. Collection of qualitative and quantitative data, interviews, scientific consultations and spatial analysis.
+National Diploma in Research and Experimentation	2021–2022
+ENDA – National School of the Arts, Paris, France
+Research through artistic and experimental practices: artistic production, visual research, and curatorial processes as epistemic tools within anthropological inquiry.
+Advanced Training in Contemporary Art	2020–2021
+Institute of Contemporary Art (ICA), Moscow, Russia
+Curatorial and critical engagement with visual culture. Translating ethnographic findings into visual and public-facing formats (exhibitions, visual narratives).
+Second Year French Diploma (Master 1 equivalent)	2019–2021
+French University College at Lomonosov Moscow State University, Moscow, Russia
+Humanities scholarship in French. Deepened grounding in Francophone environmental humanities and Caribbean scholarship.
+University Exchange Programme	2018–2019
+University College Dublin, Dublin, Ireland
+Exposure to Anglo-Irish traditions in anthropology and cultural studies, enriching comparative and international academic perspective.
+Academic Exchange Programme	2018
+Rijksuniversiteit Groningen, Groningen, Netherlands
+First in-depth exposure to European academic culture and research practices.
+Bachelor’s Degree in Humanities (History, Digital Humanities)	2015–2020
+Higher School of Economics, Moscow, Russia
+Foundation in historical analysis, archival research, and digital methodologies. Specialisation in History and Art History.
+RESEARCH EXPERIENCE
+Research Engineer, Sciences Po, Paris	Jul. 2025 – Present
+Design and development of digital infrastructures and data visualisation tools for European platforms on migration (ETHMIGSURVEYDATA project). Harmonisation of multiple databases, deployment of analytical platforms, data extraction via Python/SQL scripts.
+Research Engineer, CNRS, Paris	Sept. 2024 – Sept. 2025
+Development of digital infrastructure for a medieval documentary corpus: API design, data models, backend/frontend services, continuous integration and automated testing.
+Data Scientist, EHESS (Gargantua / Savoirs Project)	Jul. 2024 – Aug. 2024
+Scientific text analysis using topological graph methods (Gargantext). Mapping scientific and policy discourse as knowledge systems. Development of energy-efficient algorithms for data analysis.
+Anthropological Internship on Citizenship and Political Engagement, EHESS	2024
+Developed and implemented an approved research design focusing on political participation, citizenship practices, and governance from below. Work with ethical review procedures, anonymisation protocols, and sensitive qualitative data.
+Research Assistant, Ionian University, Corfu	2023–2025
+Collection of qualitative and quantitative data, interviews, scientific consultations in a coastal and island context. Empirical foundations on island precarity, environmental vulnerability and cultural landscapes.
+Researcher, Navigation Laboratory, Institut Jean Nicod (ENS/EHESS), Paris	Oct. 2022 – Present
+Development of cartographic analysis projects, workshops and programme development. Research on representations of the ocean in contemporary art, anthropology of islands. Participation in the Savoirs project using topological graph methodologies (Gargantext).
+Scientific Internship, Institut Jean Nicod (ENS/EHESS), Paris	Nov. 2022 – Mar. 2023
+Funded research project analysing representations of the ocean in 20th-century art and philosophy.
+Research Assistant, “Philosophy of the Ocean” Lab, Institut Jean Nicod	May 2022 – Oct. 2022
+Preparation of an article on the representation of the ocean in contemporary art.
+Research Assistant, “Contemporary Field Philosophy” Group	Jan. 2022 – Sept. 2023
+Research project on the anthropology of islands.
+Research Assistant, V-A-C Foundation, Inclusivity Group, Moscow	Apr. 2022 – Dec. 2024
+Curatorial practices, mediation, community accessibility, and inclusive public knowledge practices. Funded position.
+Research Group in Decolonial Studies in Central Asia	2022
+Launched with artists working on decolonial practices.
+Research Group in Contemporary Ecology, Deep and Dark Philosophies, Paris	Aug. 2022
+Investigated urban landscapes and deep and dark ecologies.
+Archaeological Practice, Athens	Jun. 2019 – Jul. 2019
+Archaeological and geographical fieldwork skills.
+Research Assistant, Russian State Library, Moscow	Mar. 2019 – Dec. 2019
+Working with catalogues and databases; prosopography of pre-Mongol Russia (database, ontology, manual).
+CONFERENCES, SUMMER SCHOOLS AND WORKSHOPS
+OpenMin Data Visualisation Conference, Geneva	Feb. 2026
+Final part of the OpenMin project on visualisation of contemporary migration data.
+Islands and Sustainability Conference, University of Groningen	Nov. 2025
+Paper: “Lived Experiences, Ethnographic Philosophy, and Sea-Level Rise: Toward Ecological Justice Beyond Technocratic Adaptation.” Critique and ethnography of sea-level rise; ethnographic methods as foundation for ecological justice and adaptation as world-making.
+Digital Humanities Conference, Bern, Switzerland	Summer 2025
+Paper: “The Future of Environmental Humanities in the Age of Artificial Intelligence.”
+Things That Matter Summer School, University of Bern	Jun. 2025
+Project: “Multi-Species Biography of Our River.” Research-based digital project investigating materiality, landscape and environmental memory through the River Aare. Synthesising environmental humanities, new materialism and cultural geography with archival research, spatial narration and digital storytelling. https://v-aare.tumblr.com/
+Nordic Summer University (Symbiosis circle)	2023, 2024, 2025
+Long-term participation in interdisciplinary debates in anthropology of science and technology, environmental humanities and philosophy. Formative for developing theoretical vocabulary around world-making, Anthropocene epistemologies and experimental research formats.
+Guided Tour on Dark Ecology, Paris	Mar. 2023
+Organised and led a guided tour on dark ecology during the Paris trash manifestations.
+CURATORIAL AND EXHIBITION WORK
+REPOSITORIUM: !MESSAGE! DEW POINT REACHED	2023
+Galerie Eric Dupont, Paris
+Role: Cultural Mediator, Manager.
+A Dream Place to Hide a Corpse	2022
+Collective Exhibition of Contemporary French Sculptures, HORS CADRE, Paris
+Role: Curator.
+Pinault Collection	2022
+Venice, Italy
+Role: Assistant.
+The Artificial Museum	2021
+Collective Exhibition, Darwin Museum and Garage Museum, Moscow
+Role: Curator.
+Aerocene Lab: Series of Performances and Public Events	2021
+Tomas Saraceno Studio, Aerocene Foundation and Garage Museum, Moscow
+Role: Show Commissioner and Organiser.
+Public Program at Garage Studios and Residences	2020–2021
+Garage Museum, Moscow
+Role: Junior Curator, Cultural Mediator.
+Space in Us	2021
+Collective Exhibition, Peresvetov Gallery, Moscow
+Role: Curator and Participant.
+Edge Cloud	2020
+Group Video Exhibition, Gallery Ground Solyanka, Moscow
+Role: Cultural Mediator.
+March 9	2020
+Collective Exhibition of Contemporary Jewellery, Gallery B Solyanka, Moscow
+Role: Junior Curator, Manager, Cultural Mediator.
+Winter Session of Magnum Live Lab	2019
+Magnum Photo Agency, Government of Moscow
+Role: Junior Curator, Manager.
+Bike Night Project: Immersive Exhibition	2018
+Museum of Architecture, Museum of Moscow, Garage Museum, Moscow
+Role: Exhibition Producer and Coordinator.
+PROFESSIONAL EXPERIENCE
+Product Manager, Paris Sciences et Lettres (Welcome Desk), Paris	Oct. 2023 – Sept. 2024
+Launch of a multilingual exchange platform for 5,000+ international students. UX research, product iteration, coordination with IT services.
+Project Manager, Galerie Eric Dupont, Paris	Feb. 2023 – Jun. 2024
+Production coordination for international exhibitions: logistics, installation, scenography, budgets, artist and curator relations.
+Intern, Centre Pompidou, Paris	Jan. 2023 – Jul. 2023
+Production support for “Histoires du Centre Pompidou”: scheduling, artist coordination, documentation and archiving.
+Producer, Nordic Summer University Symposium	Mar. 2023 – Jul. 2023
+Organisation of a transdisciplinary international symposium (100+ participants): programme, logistics, digital communication.
+Project Manager, Galerie Hors Cadre, Paris	Jan. 2022 – Jan. 2023
+Three exhibitions from curatorial conception to production: artistic direction, scenography, communication.
+Digital Project Manager, Pitch, Moscow	Jan. 2021 – Nov. 2021
+Management of five digital projects for museums: interactive tools, content development, platform integration.
+Project Manager, Garage Museum of Contemporary Art, Moscow	Aug. 2020 – Sept. 2021
+Curation of residencies and exhibitions; event coordination for 50+ people and thousands of visitors.
+Project Manager, Galerie Solyanka, Moscow	Jan. 2019 – Nov. 2019
+Supervision of 50+ events and exhibitions; logistics and communication optimisation.
+Project Manager, Magnum Jump Lab, Moscow	Feb. 2019 – Jun. 2019
+Organisation of a residency with Magnum photographers: logistics, communication, public programmes.
+Producer, Courtyards of Moscow (YouTube documentary series)	Sept. 2018 – Jul. 2020
+Production of 30+ documentary episodes on Moscow’s architectural heritage.
+Product and Project Manager, Velonoch, Moscow / Berlin / Milan	Sept. 2018 – Dec. 2021
+Direction of multi-city cultural initiatives; team of 35+; negotiation of partnerships and financing (75% of costs covered).
+SKILLS AND LANGUAGES
+Research methods: Anthropological and ethnographic fieldwork, field philosophy, multispecies ethnography, qualitative and quantitative analysis, spatial analysis, cartographic analysis, data modelling, participatory methods.
+Digital and data: Python, R, SQL, Pandas, NumPy, Scikit-learn, NLP, OCR/NER, computer vision, Plotly Dash, Tableau, Gargantext (topological graph methods), automatic image and language processing.
+Development: API design, database architecture, REST/JSON/XML, Git/GitHub, Docker, CI/CD.
+AI tools: Hugging Face (Transformers, Accelerate, Datasets), OpenAI API, model fine-tuning and evaluation.
+Curation and production: Exhibition production, scenography, cultural mediation, artist residency coordination.
+Languages: Russian (native), French (fluent), English (advanced professional), Ukrainian, Greek.

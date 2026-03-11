@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>News and Thoughts - Ekaterina Iakovleva</title>
+    <meta name="description" content="Daily notes and archive by Ekaterina Iakovleva." />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="grain" aria-hidden="true"></div>
+    <header class="site-header">
+      <div class="brand">
+        <span class="brand-name">ЕКАТЕРИНА ЯКОВЛЕВА</span>
+        <span class="brand-sub"> / news and thoughts</span>
+      </div>
+      <a class="cv-link" href="index.html">back to home</a>
+    </header>
+
+    <main class="news-main">
+      <section>
+        <p class="kicker">daily publishing + archive</p>
+        <h1 class="project-title">news and thoughts</h1>
+        <p class="tagline">
+          Publish one short note per day. Entries are saved in browser archive and grouped by date.
+        </p>
+      </section>
+
+      <section>
+        <div class="section-head">
+          <h2>new post</h2>
+          <p>local archive in this browser</p>
+        </div>
+        <form id="news-form" class="news-form">
+          <label for="post-title" class="tagline">title</label>
+          <input id="post-title" name="post-title" type="text" required />
+          <label for="post-body" class="tagline">text</label>
+          <textarea id="post-body" name="post-body" required></textarea>
+          <div class="header-actions">
+            <button class="menu-toggle" type="submit">publish</button>
+            <button class="menu-toggle" id="clear-news" type="button">clear local archive</button>
+          </div>
+        </form>
+      </section>
+
+      <section>
+        <div class="section-head">
+          <h2>archive</h2>
+          <p>stored by date</p>
+        </div>
+        <div id="news-list" class="news-list"></div>
+      </section>
+    </main>
+
+    <footer class="site-footer">© <span id="year"></span> Ekaterina Iakovleva / news and thoughts</footer>
+    <script src="scripts.js?v=20260310b"></script>
+  </body>
+</html>
